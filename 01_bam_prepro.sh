@@ -25,7 +25,7 @@ module load picard
 #Specify parameters
 Dir="path/to/working/folder/"
 InBam1="bamFile1.bam"
-InBam2="bamFile1.bam"
+InBam2="bamFile2.bam"
 InBamMerged="bamFileMeregd.bam"
 
 # Markduplicates
