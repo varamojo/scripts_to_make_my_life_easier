@@ -1,0 +1,12 @@
+Make sure that the following dependencies are installed:
+
+    pysam
+    tabulate
+    bedtools
+    deeptools
+    matplotlib
+    pandas
+    bwa
+    pairtools
+    samtools
+    preseq
